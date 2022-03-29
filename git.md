@@ -130,6 +130,7 @@ git log --oneline
   - **커밋 해쉬** : 커밋을 구별하는 ID
   - **커밋 로그** : 커밋 기록
 <br>
+
 #### 커밋의 변경 세부사항 확인하기
 ```shell
 git diff {commit_hash_ID}
